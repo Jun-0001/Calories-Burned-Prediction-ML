@@ -48,7 +48,7 @@ OZ AI BootCamp 03 mini project
 ---
 
 ## 📂 프로젝트 자산 (Project Assets)
-- [📄 최종 발표 자료 (PDF)](./Calorie_Prediction_Presentation.pdf)
+- [📄 최종 발표 자료 (PDF)](./칼로리소모량예측_머리어깨8조_발표자료.pdf)
 - [📓 모델링 및 분석 코드 (.ipynb)](./머리어깨8조_예측모델미니프로젝트_제출_260223.ipynb)
 
 ---
