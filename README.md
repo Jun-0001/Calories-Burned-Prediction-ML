@@ -43,7 +43,9 @@ OZ AI BootCamp 03 mini project
 ---
 
 ## 📈 모델 결과 시각화 (Visualization)
-*(이곳에 코드 결과물 중 'SHAP Summary Plot'이나 'Actual vs Predicted' 산점도 이미지를 캡처해서 넣어주세요)* `![SHAP Plot](./docs/shap_summary.png)`
+<img width="880" height="489" alt="image" src="https://github.com/user-attachments/assets/4c9e31e5-b9d9-45f8-8236-611edce4b2fe" />
+<img width="886" height="483" alt="image" src="https://github.com/user-attachments/assets/0d57d88f-4640-4d42-b271-55f6de24e79d" />
+
 
 ---
 
